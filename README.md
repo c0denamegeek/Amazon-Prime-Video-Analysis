@@ -1,3 +1,5 @@
+# Amazon Prime Video Dashboard
+
 This interactive Power BI dashboard provides a comprehensive overview of Amazon Prime Video's show offerings. It visually presents key insights such as:
 
 Total Number of Shows: 393 shows across various genres and languages.
